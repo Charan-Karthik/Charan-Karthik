@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+Other places to find me:
+<img src="linkedin.svg" alt="LinkedIn Badge"/>
+</div>
+
 <!--
 **Charan-Karthik/Charan-Karthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
