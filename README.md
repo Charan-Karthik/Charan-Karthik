@@ -1,8 +1,8 @@
 <h1 align="center"> Charan Karthik </h1>
+<p align="center"> Welcome to my Github page! </p>
 
-<div align="center">
-  <p> Welcome to my Github page! </p>
-</div>
+<p>**Who am I?** : I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).</p>
+<p>**I'm currently working on** maintaining and improving my coding skills through creating projects, learning new languages (currently: Swift), and practicing algorithms on websites such as Leetcode and HackerRank.</p>
 
 <!--
 ### Hi there 👋
