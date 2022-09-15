@@ -1,6 +1,8 @@
 <h1 align="center"> Charan Karthik </h1>
 
-
+<div align="center">
+  <p> Welcome to my Github page! </p>
+</div>
 
 <!--
 ### Hi there 👋
