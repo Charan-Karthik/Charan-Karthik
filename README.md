@@ -1,5 +1,5 @@
 <h1 align="center"> Charan Karthik </h1>
-<p align="center"> Welcome to my Github page! Check out my pinned repositories for some cool projects I've been working on :) </p>
+<p align="center"> Welcome to my Github page! Check out my <b>pinned repositories</b> for some <b>cool projects</b> I've been working on :) </p>
 
 👨🏾‍💻 _**Who am I?**_
 I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).
