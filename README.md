@@ -5,10 +5,8 @@ _**Who am I?**_ I am a software engineer with experience in full-stack developme
 
 _**I'm currently working on**_ maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way or learn how to implement a new feature), learning new languages (currently: Swift), and practicing data structures, design, and algorithms (on websites such as Leetcode and HackerRank).
 
-<div>
   ### _What's next?_
   I am seeking employment opportunities in sofware engineering so that I can apply my skills, collaborate with others, and continue learning and improving as a developer.
-</div>
 
 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik)
 
