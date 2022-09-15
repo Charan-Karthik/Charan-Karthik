@@ -1,9 +1,11 @@
 <h1 align="center"> Charan Karthik </h1>
 <p align="center"> Welcome to my Github page! </p>
 
-**Who am I?** I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).
+_**Who am I?**_ I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).
 
-**I'm currently working on** maintaining and improving my coding skills through creating projects, learning new languages (currently: Swift), and practicing algorithms on websites such as Leetcode and HackerRank.
+_**I'm currently working on**_ maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way or learn how to implement a new feature), learning new languages (currently: Swift), and practicing data structures, design, and algorithms (on websites such as Leetcode and HackerRank).
+
+_**What's next?**_ I am seeking employment opportunities in sofware engineering so that I can apply my skills, collaborate with others, and continue learning and improving as a developer.
 
 <!--
 ### Hi there 👋
