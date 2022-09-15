@@ -9,7 +9,7 @@ I am a software engineer with experience in full-stack development in three tech
 * learning new languages (currently: Swift)
 * practicing data structures, design, and algorithms (on websites such as Leetcode and HackerRank).
 
-➡️  ### _What's next?_
+### _What's next?_
   I am seeking employment opportunities in sofware engineering so that I can apply my skills, collaborate with others, and continue learning and improving as a developer.
 
 📬 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik)
