@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Charan Karthik </h1>
+
+
 
 <!--
+### Hi there 👋
+
+
 **Charan-Karthik/Charan-Karthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
