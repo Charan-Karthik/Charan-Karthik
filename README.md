@@ -5,13 +5,13 @@
 I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).
 
 🌱 _**I'm currently working on**_ 
-* maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way or learn how to implement a new feature)
+* maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way, learn how to implement a new feature, or integrate another framework)
 * learning new programming languages (currently: Swift)
 * practicing data structures and algorithms (on websites such as Leetcode and HackerRank)
 
 ## _What's next?_
 
-➡️ **I am seeking employment opportunities** in sofware engineering so that I can apply my skills, collaborate with others, and continue learning and improving as a developer.
+➡️ **I am seeking employment opportunities** in sofware engineering so that I can apply my skills, collaborate with others, and continue growing as a developer.
 
 📬 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik)
 
