@@ -7,7 +7,7 @@ I am a software engineer with experience in full-stack development in three tech
 🌱 _**I'm currently working on**_ 
 * maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way, learn how to implement a new feature, or integrate another framework)
 * learning new programming languages (currently: Swift and C++)
-* practicing data structures and algorithms (on websites such as Leetcode and HackerRank)
+* practicing data structures and algorithms
 
 ## _What's next?_
 
