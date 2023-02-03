@@ -2,7 +2,7 @@
 <p align="center"> Welcome to my Github page! Check out my <b>pinned repositories</b> for some <b>cool projects</b> I've been working on :) </p>
 
 👨🏾‍💻 _**Who am I?**_
-I am a software engineer with experience in full-stack development in three tech stacks (Python, Java, and Javascript/MERN).
+I am a full-stack/back-end software engineer interested in applying my skills to solve problems and create products/provide services that enhance others' lives.
 
 🌱 _**I'm currently working on**_ 
 * maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way, learn how to implement a new feature, or integrate another framework)
