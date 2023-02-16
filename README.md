@@ -5,7 +5,7 @@
 I am a full-stack/back-end software engineer interested in applying my skills to innovatively solve problems and create products/provide services that enhance others' lives.
 
 🌱 _**I'm currently working on**_ 
-* EXCITING UPDATES COMING SOON!!
+* Transforming access to excellent healthcare as a Software Engineer at Employer Direct Healthcare ([edhc.com](https://www.edhc.com/))
 <!-- 
 * maintaining and improving my coding skills (mainly by developing personal projects and challenging myself to try doing things a different way, learn how to implement a new feature, or integrate another framework)
 * learning new programming languages (currently: C# w/ the ASP.NET Core Framework and TypeScript/Angular)
