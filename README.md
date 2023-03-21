@@ -2,7 +2,7 @@
 <p align="center"> Welcome to my Github page! Check out my <b>pinned repositories</b> for some <b>cool projects</b> I've been working on :) </p>
 
 👨🏾‍💻 _**Who am I?**_
-I am a full-stack/back-end software engineer interested in applying my skills to innovatively solve problems and create products/provide services that enhance others' lives.
+I am a back-end/full-stack software engineer interested in applying my skills to innovatively solve problems and create products/provide services that enhance others' lives.
 
 🌱 _**I'm currently working on**_ 
 * Transforming access to excellent healthcare as a Software Engineer at Employer Direct Healthcare ([edhc.com](https://www.edhc.com/))
