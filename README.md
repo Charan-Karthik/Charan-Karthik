@@ -16,7 +16,7 @@ I am a full-stack/back-end software engineer interested in applying my skills to
  -->
 ## _What's next?_
 
-➡️ I'm always seeking opportunities to challenge myself and grow both personally and professionally. I'm confident that my attitude, skills, and mindset will be an asset to any team I may work with. If you need a back-end/full-stack developer with a strong work ethic, look no further! :)
+➡️ I'm always seeking opportunities to challenge myself and grow both personally and professionally. I'm confident that my attitude, skills, and mindset will be an asset to any team I may work with. If you need an experienced back-end/full-stack developer with a strong work ethic, look no further! :)
 
 📬 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik)
 
