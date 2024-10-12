@@ -6,8 +6,8 @@ I am a back-end/full-stack software engineer interested in applying my skills to
 
 🌱 _**I'm currently working on**_ 
 * Transforming access to excellent healthcare as a Software Engineer at Lantern ([lanterncare.com](https://lanterncare.com/))
-* Exploring new technologies, languages, and frameworks
 * Pursuing a Master's in Computer Science at Georgia Tech
+* Exploring new technologies, languages, and frameworks
 * Maintaining and improving my technical skills through the development of personal projects and practicing data structures, algorithms, and system design concepts
 * Networking and collaborating with other developers
 
