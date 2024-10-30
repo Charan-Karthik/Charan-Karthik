@@ -6,7 +6,6 @@ I am a back-end/full-stack software engineer interested in applying my skills to
 
 🌱 _**I'm currently working on**_ 
 * Transforming access to excellent healthcare as a Software Engineer at Lantern ([lanterncare.com](https://lanterncare.com/))
-* Pursuing a Master's in Computer Science at Georgia Tech
 * Exploring new technologies, languages, and frameworks
 * Maintaining and improving my technical skills through the development of personal projects and practicing data structures, algorithms, and system design concepts
 * Networking and collaborating with other developers
@@ -15,7 +14,7 @@ I am a back-end/full-stack software engineer interested in applying my skills to
 
 ➡️ I'm always seeking opportunities to challenge myself and grow both personally and professionally. I'm confident that my attitude, skills, and mindset will be an asset to any team I may work with. If you need an experienced back-end/full-stack developer with a strong work ethic, look no further! :)
 
-📬 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik)
+📬 **The best way to contact me** is through [Linkedin](https://www.linkedin.com/in/charankarthik) or **via email: ** secharank "at" gmail "dot" com
 
 
 <!--
