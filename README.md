@@ -1,5 +1,5 @@
 <h1 align="center"> Charan Karthik </h1>
-<p align="center"> Welcome to my Github page! Check out my <b>pinned repositories</b> for some <b>cool projects</b> I've been working on :) </p>
+<p align="center"> Welcome to my GitHub page! Check out my <b>pinned repositories</b> for some <b>cool projects</b> I've been working on :) </p>
 <p align="center">Also, here's <a href="https://charan-karthik.github.io/">my website</a></p>
 
 <hr />
