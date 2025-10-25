@@ -8,7 +8,7 @@
 I am a back-end/full-stack software engineer interested in applying my skills to innovatively solve problems and create products/provide services that enhance others' lives.
 
 🌱 _**I'm currently working on**_ 
-* Transforming access to excellent healthcare as a Software Engineer at Lantern ([lanterncare.com](https://lanterncare.com/))
+* update coming soon...!
 * Exploring new technologies, languages, and frameworks
 * Maintaining and improving my technical skills through the development of personal projects and practicing data structures, algorithms, and system design concepts
 * Networking and collaborating with other developers
