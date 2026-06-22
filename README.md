@@ -19,6 +19,10 @@ I am a back-end/full-stack software engineer interested in applying my skills to
 📬 **The best way to contact me** is through [LinkedIn](https://www.linkedin.com/in/charankarthik)
 <br /> OR **via email:** secharank "at" gmail "dot" com
 
+<hr />
+
+**Fun fact**: all of my green commit squares here are _in addition to_ my commits at work! Check out my work commits [here]([url](https://github.com/charan-karthik-paraform)).
+
 
 <!--
 ### Hi there 👋
