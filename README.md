@@ -21,7 +21,7 @@ I am a back-end/full-stack software engineer interested in applying my skills to
 
 <hr />
 
-**Fun fact**: all of my green commit squares here are _in addition to_ my commits at work! Check out my work commits [here]([url](https://github.com/charan-karthik-paraform)).
+**Fun fact**: all of my green commit squares here are _in addition to_ my commits at work! Check out my work commits [here](https://github.com/charan-karthik-paraform).
 
 
 <!--
